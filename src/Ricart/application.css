@@ -1,0 +1,10 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#pane {
+	-fx-background-color: rgb(195, 194, 194);
+}
+
+#timer {
+	-fx-font-size: 30px;
+}
+
